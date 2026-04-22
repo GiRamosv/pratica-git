@@ -20,7 +20,6 @@ Abra o arquivo principal no navegador ou execute conforme o tipo do projeto.
 
 - HTML
 - CSS
-- JavaScript
 - Git
 - GitHub
   git add README.md
